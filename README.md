@@ -1,16 +1,33 @@
-## Hi there 👋
+# Привет, я Илья 👋
 
-<!--
-**Ilya-Poltawezc/Ilya-Poltawezc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+###  Обо мне
+-  Сейчас изучаю **JavaScript**
+-  Цель: начать карьеру в вебе, попасть на позицию **Frontend Developer (Junior)**
+-  Люблю реализовывать дизайн-макеты в коде
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+###  Технологии и инструменты
+- **HTML5, CSS3, SCSS**
+- **JavaScript (ES6+)**
+- **Git, GitHub**
+- **Figma**
+
+---
+
+###  Мои проекты
+- 🔗 [Project 1]((https://github.com/Ilya-Poltawezc/project-10.git)) — адаптивная верстка с использованием SCSS + JS
+- 🔗 [Project 2]((https://github.com/Ilya-Poltawezc/project-9.git)) — адаптивная верстка с использованием SCSS + JS
+
+---
+
+### 📊 GitHub Статистика
+
+![Ilya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ilya-Poltawezc&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilya-Poltawezc&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Ilya-Poltawezc&theme=radical)
+
+
