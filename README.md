@@ -30,4 +30,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ilya-Poltawezc&theme=radical)
 
+Контакты: 
+telegram - @ilyajko
+
 
