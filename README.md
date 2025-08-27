@@ -17,7 +17,7 @@
 ---
 
 ###  Мои проекты
-- 🔗 [Project 1]((https://github.com/Ilya-Poltawezc/project-10.git)) — адаптивная верстка с использованием SCSS + JS
+- 🔗 https://github.com/Ilya-Poltawezc/project-10.git — адаптивная верстка с использованием SCSS + JS
 - 🔗 [Project 2]((https://github.com/Ilya-Poltawezc/project-9.git)) — адаптивная верстка с использованием SCSS + JS
 
 ---
