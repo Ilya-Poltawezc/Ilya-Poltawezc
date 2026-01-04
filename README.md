@@ -21,7 +21,6 @@
 - 🔗 https://github.com/Ilya-Poltawezc/project-16-App-shop.git - Тільки розпочав свій проект на реакті
 - 🔗 https://github.com/Ilya-Poltawezc/project-12.git - адаптивна верстка з використанням SCSS + JS
 - 🔗 https://github.com/Ilya-Poltawezc/project-10.git — адаптивна верстка з використанням SCSS + JS
-- 🔗 https://github.com/Ilya-Poltawezc/project-10.git — адаптивна верстка з використанням SCSS + JS
 - 🔗 https://github.com/Ilya-Poltawezc/project-9.git — адаптивна верстка з використанням SCSS + JS
 
 ---
